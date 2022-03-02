@@ -5,4 +5,5 @@
 # 4. 4-listmorefiles - Display current directory contents including hidden files
 # 5. 5-listfilesdigitonly - long format, user and groups ids and hidden files
 # 6. 6-firstdirectory - create directory in another folder
+# 7. 7-movethatfile - move file from dir a to dir b
 
