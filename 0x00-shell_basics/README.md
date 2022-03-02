@@ -4,4 +4,5 @@
 # 3. 3-listfiles - Display current directory contents in a long format
 # 4. 4-listmorefiles - Display current directory contents including hidden files
 # 5. 5-listfilesdigitonly - long format, user and groups ids and hidden files
+# 6. 6-firstdirectory - create directory in another folder
 
