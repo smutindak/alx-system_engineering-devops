@@ -6,4 +6,5 @@
 # 5. 5-listfilesdigitonly - long format, user and groups ids and hidden files
 # 6. 6-firstdirectory - create directory in another folder
 # 7. 7-movethatfile - move file from dir a to dir b
+# 8. 8-firstdelete - delete file from a directory
 
