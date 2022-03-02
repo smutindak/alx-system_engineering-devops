@@ -10,4 +10,5 @@
 # 9. 9-firstdirdeletion - delete directory
 # 10. 10-back - change to previous directory
 # 11. 11-lists - listing directories in order and long format
+# 12. 12-file_type - identify filetype
 
