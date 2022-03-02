@@ -7,4 +7,5 @@
 # 6. 6-firstdirectory - create directory in another folder
 # 7. 7-movethatfile - move file from dir a to dir b
 # 8. 8-firstdelete - delete file from a directory
+# 9. 9-firstdirdeletion - delete directory
 
