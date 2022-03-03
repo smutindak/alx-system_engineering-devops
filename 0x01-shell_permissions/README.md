@@ -3,4 +3,5 @@
 # 2-groups - prints the groups the current user belongs to
 # 3-new_owner - change owner of a file to new one
 # 4-hello - creates an empty file
+# 5-execute - create a file to be executable
 
