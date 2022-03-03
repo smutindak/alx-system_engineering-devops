@@ -7,4 +7,6 @@
 # 6-add permissions to various groups
 # 7-  persions to everybody
 # 8- give right permissions to each group
-# 9-SET 
+# 9-SETT PEemissions
+# 10 -script to set mode
+
