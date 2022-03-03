@@ -9,4 +9,5 @@
 # 8- give right permissions to each group
 # 9-SETT PEemissions
 # 10 -script to set mode
+# 11 - add execute permissions to subdirectories
 
