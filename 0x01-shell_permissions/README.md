@@ -5,6 +5,6 @@
 # 4-hello - creates an empty file
 # 5-execute - create a file to be executable
 # 6-add permissions to various groups
-# 7- add persions to everybody
+# 7-  persions to everybody
 # 8- give right permissions to each group
-
+# 9-SET 
