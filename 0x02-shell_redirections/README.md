@@ -18,3 +18,4 @@
 17- Display all lines which dont have a certain patterns
 18- Script to display all lines starting with capital letters
 19- Replace all characters individually
+20- Script to delete specific letters
