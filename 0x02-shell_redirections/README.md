@@ -23,3 +23,4 @@
 Display all users aand their home directories
 23- Find all empty files and dir
 24- Display all .gifs files
+25- Display acrostic poem
