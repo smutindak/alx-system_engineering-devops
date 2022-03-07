@@ -19,3 +19,4 @@
 18- Script to display all lines starting with capital letters
 19- Replace all characters individually
 20- Script to delete specific letters
+21- Reverse input of a string
