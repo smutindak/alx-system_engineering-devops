@@ -8,3 +8,5 @@
 7- script to create a file and insert text into it
 8 - Script to write into a file the contents of ls -la
 9- Script to duplicate last line of the file
+10- Script to delete all files that end with a specific extension
+11- Script to count number of directories and subdirectories
