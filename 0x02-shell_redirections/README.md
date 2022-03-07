@@ -6,7 +6,7 @@
 5- Script to display first 10 lines of a file
 6- Script to print the third line of a file
 7- script to create a file and insert text into it
-8 - Script to write into a file the contents of ls -la
+8- Script to write into a file the contents of ls -la
 9- Script to duplicate last line of the file
 10- Script to delete all files that end with a specific extension
 11- Script to count number of directories and subdirectories
@@ -20,7 +20,8 @@
 19- Replace all characters individually
 20- Script to delete specific letters
 21- Reverse input of a string
-Display all users aand their home directories
+22- Display all users aand their home directories
 23- Find all empty files and dir
 24- Display all .gifs files
 25- Display acrostic poem
+26- Script that parses web  servers logs in TSV format
