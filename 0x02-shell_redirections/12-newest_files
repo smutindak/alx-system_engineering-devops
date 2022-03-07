@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -lt | head
-12- Display the 10 most recent file in the current directory
