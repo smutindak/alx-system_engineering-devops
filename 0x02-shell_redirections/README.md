@@ -20,3 +20,4 @@
 19- Replace all characters individually
 20- Script to delete specific letters
 21- Reverse input of a string
+Display all users aand their home directories
