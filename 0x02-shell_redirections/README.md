@@ -14,3 +14,4 @@
 13- Script tp list unique words and sort
 14- Script to search for a specific word in a file
 15- Script to display number of lines that contain a pattern in a file
+16- Script to display root and the next 3 lines
