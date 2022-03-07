@@ -6,3 +6,4 @@
 5- Script to display first 10 lines of a file
 6- Script to print the third line of a file
 7- script to create a file and insert text into it
+8 - Script to write into a file the contents of ls -la
