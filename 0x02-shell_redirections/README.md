@@ -10,4 +10,6 @@
 9- Script to duplicate last line of the file
 10- Script to delete all files that end with a specific extension
 11- Script to count number of directories and subdirectories
-12- Script to display 10 most recent files in a directory"
+12- Script to display 10 most recent files in a directory
+13- Script tp list unique words and sort
+14- Script to search for a specific word in a file
