@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 3p /root/alx-system_engineering-devops/0x02-shell_redirections/iacta
+head -3 iacta | tail -1
