@@ -16,3 +16,4 @@
 15- Script to display number of lines that contain a pattern in a file
 16- Script to display root and the next 3 lines
 17- Display all lines which dont have a certain patterns
+18- Script to display all lines starting with capital letters
