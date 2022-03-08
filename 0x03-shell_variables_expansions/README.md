@@ -6,3 +6,4 @@
 # 5- Script that lists all local variables and environmental variables and functions
 # 6- Script that creates a new local variable
 # 7- Script that creates a new global variable
+# 8- Script that adds 128 to the environmental variable TRUEKNOWLEDGE
