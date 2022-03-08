@@ -12,3 +12,4 @@
 # 11- Script that converts a number from base 2 to base 10
 # 12- Script that prints all possible combinations of two letters, except oo
 # 13- Script that prints a number with two decimals places
+# 14- Script to convert a number from base 10 to base 16
