@@ -14,3 +14,4 @@
 # 13- Script that prints a number with two decimals places
 # 14- Script to convert a number from base 10 to base 16
 # 15- Script that encodes and decodes text using the rot13 encryption
+# 16- Script that prints every other line from the input, starting with the first line
