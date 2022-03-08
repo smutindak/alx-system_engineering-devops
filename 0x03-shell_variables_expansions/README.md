@@ -3,3 +3,4 @@
 # 2- Add /action to a PATH to be executed anywhere on the shell
 # 3- Script that counts the number of directories in the PATH variable
 # 4- Script to list all environmental variables
+# 5- Script that lists all local variables and environmental variables and functions
