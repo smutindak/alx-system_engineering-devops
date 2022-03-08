@@ -10,4 +10,4 @@
 # 9- Script that prints the result of POWER divided by DIVIDE variables
 # 10- Script to display the function of power to variables
 # 11- Script that converts a number from base 2 to base 10
-# 11- Script that prints all possible combinations of two letters, except oo
+# 12- Script that prints all possible combinations of two letters, except oo
