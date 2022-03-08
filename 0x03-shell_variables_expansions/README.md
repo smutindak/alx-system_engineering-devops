@@ -8,3 +8,4 @@
 # 7- Script that creates a new global variable
 # 8- Script that adds 128 to the environmental variable TRUEKNOWLEDGE
 # 9- Script that prints the result of POWER divided by DIVIDE variables
+# 10- Script to display the function of power to variables
